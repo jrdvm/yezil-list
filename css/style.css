@@ -1,1 +1,31 @@
+.yezil-list-container {
+  border: solid 1px black;
+}
 
+.yezil-list-element {
+  padding: 0px 0px;
+  border: solid 1px red;
+  z-index: 1;
+}
+
+.yezil-list-move-button {
+  border: solid 1px orangered;
+  width: 25px;
+  height: 25px;
+  /* background-image: url('https://yezil.net/images/avatars/mobs_avatar_icons/50/png/bogard-50.png'); */
+  /* background-repeat: no-repeat; */
+  background: url(../img/bogard-50.png) no-repeat; */
+  cursor:pointer;
+}
+
+.yezil-list-dropdown-button {
+  border: solid 1px mediumorchid;
+}
+
+.yezil-list-header {
+  border: solid 1px blue;
+}
+
+.yezil-list-content {
+  border: solid 1px green;
+}
