@@ -12,9 +12,7 @@
   border: solid 1px orangered;
   width: 25px;
   height: 25px;
-  /* background-image: url('https://yezil.net/images/avatars/mobs_avatar_icons/50/png/bogard-50.png'); */
-  /* background-repeat: no-repeat; */
-  background: url(../img/bogard-50.png) no-repeat; */
+  background: url(../img/bogard-50.png) no-repeat;
   cursor:pointer;
 }
 
